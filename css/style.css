@@ -15,8 +15,10 @@ h1 {
     font-size: 5rem;
     line-height: 120%;
     text-align: left;
-    color: #3fa8a5ff;
+    color: darkred;
     padding: 20px 0 50px 10px;
+    text-align: center;
+    margin: 0 auto;
     
     
 }
@@ -29,10 +31,11 @@ h2 {
     font-size: 3rem;
     line-height: 110%;
     text-align: left;
-    color: #3fa8a5ff;
+    color: darkred;
     margin-top: 20px;
     margin-bottom: 50px;
     padding: 20px 0 20px 10px;
+    text-align: center;
 
     background-color: rgb(232, 232, 212);
     
@@ -45,3 +48,9 @@ ol > li {
     font-size: 1.1rem;
 
   }
+
+section {
+	width: 80%;
+	margin: 0 auto 10px;
+	max-width: 600px;
+}
