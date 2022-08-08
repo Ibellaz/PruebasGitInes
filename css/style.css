@@ -16,7 +16,7 @@ h1 {
     line-height: 120%;
     text-align: left;
     color: #3fa8a5ff;
-    padding: 20px 0 50px 200px;
+    padding: 20px 0 50px 10px;
     
     
 }
@@ -32,8 +32,16 @@ h2 {
     color: #3fa8a5ff;
     margin-top: 20px;
     margin-bottom: 50px;
-    padding: 20px 0 50px 160px;
+    padding: 20px 0 20px 10px;
 
     background-color: rgb(232, 232, 212);
     
 }
+
+ol > li {
+
+    padding-bottom: 10px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-size: 1.1rem;
+
+  }
